@@ -23,12 +23,12 @@ Our mission is to improve public health and dignity by making safe water, clean 
 ## Our Services
 
 - Water supply solutions
-  - Borehole drilling (partners/contractors)
+  
   - Water storage tanks and tanks installation
   - Water pump supply, installation and maintenance
 - Sanitation services
   - VIP latrine construction
-  - Septic tank emptying and maintenance
+  
   - Improved toilet systems (ecosan, pour-flush)
 - Hygiene promotion and training
   - Community and school hygiene training
@@ -43,7 +43,7 @@ Our mission is to improve public health and dignity by making safe water, clean 
 
 - Handwashing stations (tippy taps, metal/wood stands)
 - Ceramic and plastic water storage tanks (various capacities)
-- Submersible and surface pumps (electric & solar-ready)
+  
 - Pipes, fittings and valves
 - Water treatment chemicals and simple filtration kits
 - Hygiene supplies (soap, sanitizers, menstrual hygiene products)
@@ -97,9 +97,9 @@ MIT © Njeru WASH Business Centre
 
 ## Contact
 
-- Phone / WhatsApp: +254-7XX-XXX-XXX
-- Email: info@njeruwash.example
-- Address: Njeru (insert full street/location)
+- Phone / WhatsApp: +254-118137033
+- Email: njerubusinesscenter@gmail.com
+- Address: Njeru (Opposite MUNANDA Catholic Church)
 
 Replace the contact placeholders above with real contact details before publishing.
 
